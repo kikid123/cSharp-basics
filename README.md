@@ -1,2 +1,5 @@
 # cSharp-basics
-This will nake a conflict!
+This will make a conflict!
+A repository created for homework
+Making some changes
+
